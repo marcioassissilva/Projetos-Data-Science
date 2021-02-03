@@ -7,7 +7,7 @@
 # Márcio de Assis
 <sub>*Director of Information Technology and Innovation in the Unis Educational group*</sub>
 
-I have been working as Director of Technology information and Innovation in the educational group Unis. I am certified as a  "Project management Professional" (PMP) by institute PMI. In the last fewers years I led projects Technology in the educational field. During these years I have acquired skills solving problems, project execution, management team and process automation using resources of technology. I am a professor of Project Management and Introduction to Programming at Grupo Unis.
+I have been working as Director of Technology information and Innovation in the educational group Unis. I am certified as a  "Project management Professional" (PMP) by institute PMI. In the last few years, I led projects Technology in the educational field. During this time, I have acquired skills in solving problems, project execution, management team and process automation using resources of technology. I am a professor of Project Management and Introduction to Programming at Grupo Unis.
 
 My credentials include a degree in Computer Science and an MBA in Business Management from Fundação Getulio Vargas (FGV). I am currently pursuing a master's degree in Regional Development by the UNIS Group.
 
@@ -18,8 +18,7 @@ My credentials include a degree in Computer Science and an MBA in Business Manag
 
 **Why I decided to learn about Data Science:**
 
-Seeing the transformation that has been taking place in the world and facing a need to change and improve Education, at this moment I decided to learn about Data Science for some reasons. Primarily because I think this field is incredible and extremely relevant to the world. Through the field of Data Science we can discover several insights and impact the ecosystem in which we live and bring significant advances. I deeply believe that education is the most powerful tool for transforming people's lives. This is the main reason why I want to learn Data Science. So I intend to record the entire learning process during this journey. In this space I intend to register my project portfolio throughout my studies.
-
+Seeing the transformation that has been taking place in the world and facing a need to contribute to a better Education,  I decided to learn about Data Science for some reasons. I think this field is incredible and extremely relevant to the world. Through Data Science, we can discover several insights and impact the ecosystem in which we live. I believe that Data Science can bring significant advances to any area. In my point of view, education is the most powerful tool for transforming people's lives. This is the main reason why I want to learn Data Science. So I intend to record the entire learning process during this journey. In this space, I intend to register my project portfolio throughout my studies.
 
 
 ## Projetos:
