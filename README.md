@@ -18,7 +18,7 @@ My credentials include a degree in Computer Science and an MBA in Business Manag
 
 **Why I decided to learn about Data Science:**
 
-Seeing the transformation that has been occurring in the world and as a University Professor, we are faced with the need to contribute to a better Education, I decided to learn about Data Science. I find this field incredible and extremely relevant to the world. Through data science, we can discover various insights and impact the ecosystem in which we live. I believe that Data Science can bring significant advances to any area. In my view, education is the most powerful tool for transforming people's lives. In this way, I intend to record the entire learning process during that journey, and who knows how to help, someone at all with the acquired knowledge. In this space, I intend to register my project portfolio throughout my studies.
+Seeing the transformation that has been occurring in the world and as a University Professor, we are faced with the need to contribute to a better Education, I decided to learn about Data Science. I find this field incredible and extremely relevant to the world. Through data science, We can discover various insights and impact the ecosystem in which We live. I believe that Data Science can bring significant advances to any area. In my view, education is the most powerful tool for transforming people's lives. In this way, I intend to record the entire learning process during that journey, and who knows how to help, someone at all with the acquired knowledge. In this space, I intend to register my project portfolio throughout my studies.
 
 ## Projetos:
 Em construção:
