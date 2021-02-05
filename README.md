@@ -5,11 +5,11 @@
 </p>
 
 # Márcio de Assis
-<sub>*Director of Information Technology and Innovation in the Unis Educational group*</sub>
+<sub>*Executive director of Information Technology and Innovation at Unis Educational Group*</sub>
 
-I have been working as Director of Technology information and Innovation in the educational group Unis. I am certified as a  "Project management Professional" (PMP) by institute PMI. In the last few years, I led projects Technology in the educational field. During this time, I have acquired skills in solving problems, project execution, management team and process automation using resources of technology. I am a professor of Project Management and Introduction to Programming at Grupo Unis.
+I have been proactively working as Director of Technology information and Innovation at the Educational Group Unis. I am certified as a "Project management Professional" (PMP) by the institute PMI. In the last few years, I have directed a range of technological projects in the educational field. During this time, I have acquired various skills, such as, resolving problems, project execution, team management and process automation using resources of technology. Currently, I also work as a professor of Project Management and Introduction to Programming at the same institution.
 
-My credentials include a degree in Computer Science and an MBA in Business Management from Fundação Getulio Vargas (FGV). I am currently pursuing a master's degree in Regional Development by the UNIS Group.
+My credentials include a degree in Computer Science and an MBA in Business Management from Fundação Getulio Vargas (FGV). I am currently pursuing a master's degree in Regional Development.
 
 **Background in:** Computer Science and Project Management.
 
@@ -18,7 +18,7 @@ My credentials include a degree in Computer Science and an MBA in Business Manag
 
 **Why I decided to learn about Data Science:**
 
-Seeing the transformation that has been occurring in the world and as a University Professor, we are faced with the need to contribute to a better Education, I decided to learn about Data Science. I find this field incredible and extremely relevant to the world. Through data science, We can discover various insights and impact the ecosystem in which We live. I believe that Data Science can bring significant advances to any area. In my view, education is the most powerful tool for transforming people's lives. In this way, I intend to record the entire learning process during that journey, and who knows how to help, someone at all with the acquired knowledge. In this space, I intend to register my project portfolio throughout my studies.
+Witnessing the transformation that has been occurring in the world and as a University Professor, we are faced with the need to contribute to a better Education, therefore, I decided to learn about Data Science. I believe this field is incredible and extremely relevant to the world. Through data science, we can gain various insights, which can help building tools that will impact the society in which we live. I believe that Data Science can produce significant advances to any area. In my point of view, education remain the most effective tool for transforming people's lives. With that in mind, I intend recording (through a blog/git) the entire learning process during this journey, and who knows, maybe this information will encourage/help someone to engage in this field. In this online space, I intend registering my project portfolio throughout my studies.
 
 ## Projetos:
 Em construção:
