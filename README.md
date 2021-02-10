@@ -15,6 +15,7 @@ My credentials include a degree in Computer Science and an MBA in Business Manag
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/geraldo-m%C3%A1rcio-de-assis-silva-0071a813b/)
+* [Medium](https://medium.com/@marcio.assis)
 
 **Why I decided to learn about Data Science:**
 
